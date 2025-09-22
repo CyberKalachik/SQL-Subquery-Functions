@@ -3,8 +3,7 @@ SQL Subquery Functions
    SQL Subquery Functions
 -------------------------------------------------------------------------------
    This script demonstrates various subquery techniques in SQL.
-   It covers result types, subqueries in the FROM clause, in SELECT, in JOIN clauses,
-   with comparison operators, IN, ANY, correlated subqueries, and EXISTS.
+   It covers result types, subqueries in the FROM clause, in SELECT, with comparison operators, IN, ANY, correlated subqueries, and EXISTS.
    
    Table of Contents:
      1. SUBQUERY - RESULT TYPES
